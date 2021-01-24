@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\NavigationDrawer\bin\Debug\NavigationDrawer.exe.config
+C:\Users\PC\Desktop\NavigationDrawer\bin\Debug\NavigationDrawer.exe
+C:\Users\PC\Desktop\NavigationDrawer\bin\Debug\NavigationDrawer.pdb
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\NavigationDrawer.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\NavigationDrawer_MarkupCompile.cache
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\NavigationDrawer_MarkupCompile.lref
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\NavigationDrawer.g.resources
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\NavigationDrawer.Properties.Resources.resources
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\NavigationDrawer.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\NavigationDrawer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\NavigationDrawer.exe
+C:\Users\PC\Desktop\NavigationDrawer\obj\Debug\NavigationDrawer.pdb

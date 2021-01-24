@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\TestWpf2\bin\Debug\TestWpf2.exe.config
+C:\Users\PC\Desktop\TestWpf2\bin\Debug\TestWpf2.exe
+C:\Users\PC\Desktop\TestWpf2\bin\Debug\TestWpf2.pdb
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\TestWpf2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\TestWpf2_MarkupCompile.cache
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\TestWpf2_MarkupCompile.lref
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\TestWpf2.g.resources
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\TestWpf2.Properties.Resources.resources
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\TestWpf2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\TestWpf2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\TestWpf2.exe
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\TestWpf2.pdb

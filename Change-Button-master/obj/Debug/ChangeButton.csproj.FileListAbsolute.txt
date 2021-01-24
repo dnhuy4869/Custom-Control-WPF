@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\TestWpf2\bin\Debug\ChangeButton.exe.config
+C:\Users\PC\Desktop\TestWpf2\bin\Debug\ChangeButton.exe
+C:\Users\PC\Desktop\TestWpf2\bin\Debug\ChangeButton.pdb
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\ChangeButton.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\ChangeButton_MarkupCompile.cache
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\ChangeButton_MarkupCompile.lref
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\ChangeButton.g.resources
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\ChangeButton.Properties.Resources.resources
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\ChangeButton.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\ChangeButton.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\ChangeButton.exe
+C:\Users\PC\Desktop\TestWpf2\obj\Debug\ChangeButton.pdb
